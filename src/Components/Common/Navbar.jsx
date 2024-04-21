@@ -15,7 +15,7 @@ const Navbar = () => {
   return (
     <AppBar position="sticky">
       <StyleComponent>
-        <Typography variant="h5">Tours</Typography>
+        <Typography variant="h5">Tourss</Typography>
         <Box sx={{ display: "flex", alignItems: "center", gap: "20px" }}>
           <Badge badgeContent={4} color="secondary">
             <MailIcon color="action" />

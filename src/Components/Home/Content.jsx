@@ -4,7 +4,7 @@ import Box from "@mui/material/Box";
 const Content = () => {
   return (
     <Box backgroundColor="violet" flex={2}>
-      content
+      content.jsx
     </Box>
   );
 };
